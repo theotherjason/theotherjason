@@ -1,6 +1,6 @@
-## Toj Fowler
+# Toj Fowler
  
-Senior Software Engineer at WP Engine — platform engineering and SRE.  Austin, TX.
+### Senior Software Engineer at WP Engine — platform engineering and SRE.  Austin, TX.
  
 - At WP Engine since 2014, starting in IT support and moving into reliability engineering
 - Kubernetes across multi-cloud, Terraform, GCP, and the measurement that says whether any of it is working
@@ -17,19 +17,19 @@ Senior Software Engineer at WP Engine — platform engineering and SRE.  Austin,
 
 ### Side projects
  
-**[swimtopia-tent-display](https://github.com/theotherjason/swimtopia-tent-display)** — live heat tracker for the parent tent at swim meets
+#### [swimtopia-tent-display](https://github.com/theotherjason/swimtopia-tent-display) — live heat tracker for the parent tent at swim meets
  
 - SwimTopia has no public API, so it reverse-engineers the mobile app's JSON:API endpoints
 - Runs on a cheap Fire HD 8 tablet
 - Built it because I volunteer at meets and got tired of "when does my kid swim?"
 
-**Home observability lab** — telemetry stack on hardware that was headed for a closet
+#### Home observability lab — telemetry stack on hardware that was headed for a closet
  
 - 2013 MacBook Pro running Ubuntu Server as the host
 - OpenTelemetry Collector into an OpenObserve backend
 - Local Ollama model writing a nightly digest of what changed
 
-**MagicMirror** — Raspberry Pi behind the kitchen wall, showing family calendars
+#### MagicMirror — Raspberry Pi behind the kitchen wall, showing family calendars
  
 - Currently sitting on a diagnosed-but-unfixed RRULE bug: events missing `BYMONTH` recur monthly instead of annually
 
@@ -42,7 +42,7 @@ Senior Software Engineer at WP Engine — platform engineering and SRE.  Austin,
 | Data | dbt, BigQuery, SLI/SLO modeling |
 | Languages | Python, Go |
 | Other | Backstage, JMeter, incident response, Agile facilitation |
-
+ 
 ### Background
  
 - **WP Engine**, 2014–present — IT Support Lead → Associate Software Engineer, Reliability → Software Engineer, Reliability → Senior Software Engineer
@@ -57,6 +57,7 @@ Senior Software Engineer at WP Engine — platform engineering and SRE.  Austin,
 - [toj.dev](https://toj.dev)
 - [Resume](https://toj.dev/resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jasonhfowler/)
+
 Outside of work: riding — MS-150 last spring — and slowly bringing my dad's 1987 Raleigh Grand Prix
 back to life.  Mostly I like finding out whether a thing can be made to do something it wasn't sold
 to do.
