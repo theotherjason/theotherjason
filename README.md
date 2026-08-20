@@ -19,9 +19,11 @@
  
 #### [swimtopia-tent-display](https://github.com/theotherjason/swimtopia-tent-display) — live heat tracker for the parent tent at swim meets
  
+- Shows the heat in progress, what's coming up, and results from finished heats — times and places
 - SwimTopia has no public API, so I reverse-engineered the mobile app's JSON:API endpoints and mapped its data model
 - Runs on a cheap Fire HD 8 tablet
-- Built it because I volunteer at meets and got tired of "when does my kid swim?"
+- Built it for the tent: the paper heat sheet can't tell you which heat is running, so it meant listening for announcements or checking the app, then cross-referencing to see who to round up next
+- The swimmers use it as much as the volunteers do — they come straight out of the water to check their time and place
 
 #### Home observability lab — telemetry stack on hardware that was headed for a closet
  
