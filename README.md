@@ -19,7 +19,7 @@
  
 #### [swimtopia-tent-display](https://github.com/theotherjason/swimtopia-tent-display) — live heat tracker for the parent tent at swim meets
  
-- SwimTopia has no public API, so it reverse-engineers the mobile app's JSON:API endpoints
+- SwimTopia has no public API, so I reverse-engineered the mobile app's JSON:API endpoints and mapped its data model
 - Runs on a cheap Fire HD 8 tablet
 - Built it because I volunteer at meets and got tired of "when does my kid swim?"
 
